@@ -8,7 +8,8 @@ $\frac {2}{3}$
 		A ---> B
 ```
 
-![link file.md]
+![[Link file.md]]
+
 
 
 
